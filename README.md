@@ -28,7 +28,7 @@ This demo uses the iconic **Valve Employee Handbook** PDF as the knowledge sourc
 
 ## Workflow Overview
 
-![Full Workflow with Annotations](screenshots/workflow-overview.png)
+![Full Workflow with Annotations](images/workflow-overview.png)
 
 ## Features
 
