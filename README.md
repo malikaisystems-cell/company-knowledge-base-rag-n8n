@@ -50,7 +50,7 @@ This demo uses the iconic **Valve Employee Handbook** PDF as the knowledge sourc
 ## Files in This Repository
 
 - `rag-chatbot-valve-demo.json` – Combined ingestion + chat workflow  
-- `valve-handbook.pdf` – Demo knowledge source (Valve Employee Handbook)  
+- `Valve_Handbook_LowRes.pdf` – Demo knowledge source (Valve Employee Handbook)  
 - `/screenshots/` – Workflow overview and chat examples  
 
 ## Customization for Your Use Case
