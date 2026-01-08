@@ -1,7 +1,7 @@
-### n8n RAG Chatbot – Company Knowledge Base Demo
-# n8n
-# OpenAI
-# Supabase
+# n8n RAG Chatbot – Company Knowledge Base Demo
+![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-blue?logo=n8n&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-green?logo=openai&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-Vector%20Store-brightgreen?logo=supabase&logoColor=white)
 An AI-powered Retrieval-Augmented Generation (RAG) chatbot built with n8n that answers questions from company documents with accurate, cited responses and zero hallucinations.
 This demo uses the famous Valve Employee Handbook PDF as the knowledge source – a perfect example of a company policy/manual knowledge base.
 Demo Highlights
